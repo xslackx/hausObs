@@ -1,0 +1,7 @@
+.env
+.env.base
+bin
+include
+lib64
+share
+lib

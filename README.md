@@ -16,7 +16,3 @@ tools like fail2ban, editing the hosts.deny file, and so on.
 
 After the apresentation i stopped to analyze the situation where we don't know what's is the next
 peer running a botnet but we have some sources to get this information. One of these sources is the Spamhaus whose inspired the name of this program.
-
-
-
-

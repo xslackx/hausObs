@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 from requests import get, post
 from dotenv import dotenv_values
-from ..tmpl import Render
 
 class MailGun():
     def __init__(self) -> None:

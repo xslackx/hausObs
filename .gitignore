@@ -1,6 +1,8 @@
 .env
 .env.base
 .env.mailgun
+.env.bootstrapmail
+detected.html
 __pycache__
 bin
 include

@@ -30,6 +30,7 @@ pyroute2==0.7.9
 pyserial==3.5
 PySocks==1.7.1
 python-dateutil==2.8.2
+python-dotenv==1.0.0
 PyYAML==6.0.1
 realtime==1.0.0
 requests==2.31.0
